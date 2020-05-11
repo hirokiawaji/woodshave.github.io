@@ -170,6 +170,9 @@ h3{
 .home:hover{
   color:gray;
 }
+.footer{
+  margin-top:100px;
+}
 h1{
   margin-left: 30px;
   font-family:serif;
