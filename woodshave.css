@@ -180,8 +180,12 @@ h1{
   font-size:20px;
 }
 @media(max-width:1000px){
-  .main li{
-    width:24%;
+  .main a::before{
+    content:"\A";
+    white-space:pre;
+  }
+  .mgr1{
+    line-height:72px;
   }
   h2{
     font-size:24px
